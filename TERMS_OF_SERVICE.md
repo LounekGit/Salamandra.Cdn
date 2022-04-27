@@ -6,10 +6,10 @@ By using this Bot you are agreeing to be bound by these Terms and Conditions of 
 ## 2. Use License
 Permission is granted to temporarily download one copy of Salamandra's materials for personal, non-commercial transitory viewing only. This is a grant of license, not a transfer of title, and under this license you may not:
 
-  - modify or copy the Materials;
-  - mse the materials for commercial purposes or for public display;
-  - remove any copyright or other proprietary notices from the Materials; or
-  - transferrring the materials to another person or mirror the Materials on any other server.
+  - modify or copy the materials;
+  - use the materials for commercial purposes or for public display;
+  - remove any copyright or other proprietary notices from the materials; or
+  - transferrring the materials to another person or mirror the materials on any other server.
 
 This will let Salamandra's developer to terminate upon violations of any of these restrictions. Upon termination, your viewing right will also be terminated and you should destroy any downloaded materials in your possession whether it is printed or electronic format.
 
