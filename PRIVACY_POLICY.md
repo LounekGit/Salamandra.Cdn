@@ -4,10 +4,10 @@
 By using Salamandra, you agree to the following privacy policy.
 
 ## 2. What information is stored
-Your guildId is stored if you are blacklisted.
+Your server ID is stored if you are blacklisted.
 
 ## 3. How we use your information
-The guildId is only used for kicking Salamandra from your guild.
+The server ID is only used for kicking Salamandra from your guild.
 
 ## 4. Temporarely stored Information
 Salamandra may keep information in an internal cacheing mechanic for a certain amount of time.
